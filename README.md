@@ -1,5 +1,8 @@
 # Finance-IO
-Full stack django webapp to allow the user to manage thier finances.
+Full stack Django web app to allow the user to manage their finances.
+
+## Design
+![Screenshot](images/Finance-IO.png) 
 
 ## Tools used: 
 - Bootstrap 5
@@ -12,5 +15,4 @@ WeatherIO is a full-stack web application that was made with the idea of helping
 ## Features
 Helps users manage their finances using the 50/30/20 rule 
 
-## Design
-![Screenshot](images/Finance-IO.png) 
+
