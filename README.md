@@ -10,7 +10,7 @@ Full stack Django web app to allow the user to manage their finances.
 - MySQL
 
 ## About 
-WeatherIO is a full-stack web application that was made with the idea of helping users keep track of the current weather and get forecast weather for a specific day.  
+Finance IO is a full-stack web application that was made with the idea of helping users keep track of their finances.  
 
 ## Features
 Helps users manage their finances using the 50/30/20 rule 
